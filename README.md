@@ -1,4 +1,4 @@
-Node.js and npm require
+Node.js and npm required
 
 run in consol:
 >npm install
